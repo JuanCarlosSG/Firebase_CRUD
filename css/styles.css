@@ -1,0 +1,25 @@
+.card {
+  border-color: black;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
+
+#cancel {
+  visibility: hidden;
+}
+
+#title {
+  justify-content: center;
+  align-items: center;
+  background: black;
+}
+
+#myFooter {
+  color: white;
+  justify-content: center;
+  align-items: center;
+  background: black;
+}
